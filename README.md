@@ -16,9 +16,6 @@
   <p>
   French DevSecOps
   </p>
-  <p>
-    Found further information on my <a href="https://kilian-goetz.com/">portfolio</a>
-  </p>
 
 ---
 
