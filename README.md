@@ -14,7 +14,7 @@
 <div align="center">
   <h3>👨‍💻 About Me :</h3>
   <p>
-  French DevSecOps at <a href="https://www.nse-groupe.com/">N.S.E</a> specialized in aeronautical, defense, and electronic fields.
+  French DevSecOps
   </p>
   <p>
     Found further information on my <a href="https://kilian-goetz.com/">portfolio</a>
